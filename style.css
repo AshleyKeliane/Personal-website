@@ -34,9 +34,6 @@ nav{
     justify-content: space-between;
     flex-wrap: wrap;
 }
-.logo{          
-    width:200px;
-}
 
 nav ul li{          /*ordering the links*/
     display: inline;
