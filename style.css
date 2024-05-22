@@ -15,7 +15,7 @@ body{
 #header{
     width:100%;
     height: 100vh;
-    background-image: url(images/background.png);
+    background-image: url(background.webp);
     background-size: cover;
     background-position: center;
 }
@@ -71,7 +71,7 @@ nav ul li a:hover::after{
     margin-top: 20px;
 }
 .header-text h1 span{
-    color : rgb(97, 73, 25);
+    color : #ff004f;
 
 }
 
