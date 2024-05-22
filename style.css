@@ -365,6 +365,7 @@ nav .fa-regular{
     }
     .header-text h1{
         font-size: 30px;
+        color : #ff004f;
     }
     nav .fa-solid{
         display: block;
